@@ -11,3 +11,4 @@
 - 2026-08-12: manutencao
 - 2026-08-13: manutencao
 - 2026-08-13: manutencao
+- 2026-08-14: Registro do dia por voz
